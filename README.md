@@ -1,4 +1,4 @@
-# hairsalon3
+# Hair_Salon
 
 A new Flutter project.
 
